@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuisRangelDev  
-- 🎬 I’m passionate about cinema, and I discovered my love for programming and technology-driven solutions almost by accident  
+- 🎬 I’m passionate about cinema, and I discovered my love for programming and technology-driven solutions almost by accident XD
 - 👨‍💻 I enjoy creating web tools that solve real problems and improve processes  
 - 🌱 I’m currently studying Computer Engineering  
 - 💼 I’m open to collaborating on IT and software development projects  
