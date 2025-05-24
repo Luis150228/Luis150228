@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Luis150228
-- 👀 I’m interested in ...I am passionate about web development
-- 🌱 I’m currently learning ...Study Computer Engineering
-- 💞️ I’m looking to collaborate on ...IT related I am open to looking for new challenges
-- 📫 How to reach me ...luis.rangeldiaz@gmail.com
+- 👋 Hi, I’m @LuisRangelDev  
+- 🎬 I’m passionate about cinema, and I discovered my love for programming and technology-driven solutions almost by accident  
+- 👨‍💻 I enjoy creating web tools that solve real problems and improve processes  
+- 🌱 I’m currently studying Computer Engineering  
+- 💼 I’m open to collaborating on IT and software development projects  
+- 🚀 I’m always looking for new challenges and opportunities to grow  
+- 👨‍👩‍👧‍👦 I deeply enjoy spending time with my wife and children — they’re my biggest inspiration  
+- 📫 How to reach me: luis.rangeldiaz@gmail.com
 
 <!---
 Luis150228/Luis150228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
